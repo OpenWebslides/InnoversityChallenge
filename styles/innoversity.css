@@ -1,0 +1,24 @@
+.person {
+  margin-bottom: 1em;
+}
+
+.person img {
+  border-radius: 50%;
+  height: 4.2em;
+  float: left;
+  clear: both;
+  margin-right: 1em;
+}
+
+.person p {
+  margin: 0;
+  line-height: 1.4em;
+}
+
+.person .name {
+  font-weight: bold;
+}
+
+.person .faculty {
+  font-style: italic;
+}
