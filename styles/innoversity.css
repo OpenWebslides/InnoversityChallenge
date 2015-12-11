@@ -26,3 +26,9 @@
 .person .faculty {
   font-style: italic;
 }
+
+.twitter-tweet {
+  transform: scale(.75);
+  transform-origin: 0 0;
+  margin: 0 auto;
+}
