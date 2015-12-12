@@ -1,9 +1,11 @@
 a {
   background: none !important;
-  border-bottom: 1px solid;
+  border-bottom: 1px dashed;
+  transition: .2s all;
 }
 a:hover {
   color: #fab900;
+  border-bottom-style: solid;
 }
 
 .title.slide::after {
