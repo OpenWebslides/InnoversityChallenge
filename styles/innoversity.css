@@ -9,7 +9,7 @@ a:hover {
 }
 
 .title.slide::after {
-  display: none;
+  font-size: 0;
 }
 
 .title.slide .logo {
