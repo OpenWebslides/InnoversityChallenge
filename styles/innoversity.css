@@ -1,3 +1,28 @@
+a {
+  background: none !important;
+  border-bottom: 1px solid;
+}
+a:hover {
+  color: #fab900;
+}
+
+.title.slide::after {
+  display: none;
+}
+
+.title.slide h2 {
+  line-height: 1;
+  font-size: 3.1em;
+  margin: 2.5em 0 .2em -.1em;
+}
+
+.title.slide h3 {
+  line-height: 1.2;
+  font-size: 1.7em;
+  letter-spacing: .2px;
+  margin: .2em 0;
+}
+
 .TODO {
   color: red;
 }
