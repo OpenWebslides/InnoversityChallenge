@@ -10,10 +10,16 @@ a:hover {
   display: none;
 }
 
+.title.slide .logo {
+  float: right;
+  margin: 4em 15px .5em;
+}
+
 .title.slide h2 {
+  clear: both;
   line-height: 1;
   font-size: 3.1em;
-  margin: 2.5em 0 .2em -.1em;
+  margin: 0 0 .2em -.1em;
 }
 
 .title.slide h3 {
