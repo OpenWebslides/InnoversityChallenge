@@ -28,7 +28,21 @@ a:hover {
   line-height: 1.2;
   font-size: 1.7em;
   letter-spacing: .2px;
-  margin: .2em 0;
+  margin: .2em 0 .5em;
+}
+
+.title.slide p {
+  line-height: 1;
+}
+
+a.license {
+  float: right;
+  margin-right: 60px;
+  border-bottom: 0;
+}
+
+a.license img {
+  height: 1em;
 }
 
 .TODO {
