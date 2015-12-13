@@ -8,6 +8,12 @@ a:hover {
   border-bottom-style: solid;
 }
 
+h3 {
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 1.5;
+}
+
 .title.slide::after {
   font-size: 0;
 }
@@ -25,10 +31,11 @@ a:hover {
 }
 
 .title.slide h3 {
-  line-height: 1.2;
   font-size: 1.7em;
+  line-height: 1.2;
   letter-spacing: .2px;
   margin: .2em 0 .5em;
+  font-weight: normal;
 }
 
 .title.slide p {
@@ -47,6 +54,9 @@ a.license img {
 
 .TODO {
   color: red;
+}
+.TODO::before {
+  content: "TODO: ";
 }
 
 .person {
