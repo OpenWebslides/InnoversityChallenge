@@ -110,6 +110,11 @@ a.license img {
   margin: 0 auto;
 }
 
+.twitter-hashtag-button {
+  margin: 470px 690px;
+  transform: scale(1.5);
+}
+
 .graph {
   margin-top: -20px;
   overflow: hidden;
