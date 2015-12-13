@@ -88,6 +88,22 @@ a.license img {
   font-style: italic;
 }
 
+.avatar {
+  border-radius: 50%;
+  height: 5em;
+  width: 5em;
+  background: #FBBA00;
+  border: 6px solid #FBBA00;
+  margin: 0 3em .3em 0;
+  transition: 1s all;
+}
+.avatar:hover {
+  height: 6em;
+  width: 6em;
+  margin: -1em 2em -1em 0;
+  transition: .5s all;
+}
+
 .twitter-tweet {
   transform: scale(.85);
   transform-origin: 0 0;
