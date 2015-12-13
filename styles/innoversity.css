@@ -1,9 +1,9 @@
-a {
+.slide a {
   background: none !important;
   border-bottom: 1px dashed;
   transition: .2s color;
 }
-a:hover {
+.slide a:hover {
   color: #fab900;
   border-bottom-style: solid;
 }
