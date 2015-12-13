@@ -95,7 +95,11 @@ a.license img {
   background: #FBBA00;
   border: 6px solid #FBBA00;
   margin: 0 3em .3em 0;
-  transition: 1s all;
+  transform: rotate(-30deg);
+  transition: 2s all;
+}
+.active .avatar {
+  transform: rotate(0deg);
 }
 .avatar:hover {
   height: 6em;
