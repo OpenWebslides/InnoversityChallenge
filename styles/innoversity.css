@@ -1,9 +1,9 @@
-a {
+.slide a {
   background: none !important;
   border-bottom: 1px dashed;
   transition: .2s color;
 }
-a:hover {
+.slide a:hover {
   color: #fab900;
   border-bottom-style: solid;
 }
@@ -88,10 +88,37 @@ a.license img {
   font-style: italic;
 }
 
+.avatar {
+  border-radius: 50%;
+  height: 5em;
+  width: 5em;
+  background: #FBBA00;
+  border: 6px solid #FBBA00;
+  margin: 0 3em .3em 0;
+  transition: 2s all;
+}
+.full .avatar {
+  transform: rotate(-30deg);
+}
+.active .avatar {
+  transform: rotate(0deg);
+}
+.avatar:hover {
+  height: 6em;
+  width: 6em;
+  margin: -1em 2em -1em 0;
+  transition: .5s all;
+}
+
 .twitter-tweet {
   transform: scale(.85);
   transform-origin: 0 0;
   margin: 0 auto;
+}
+
+.twitter-hashtag-button {
+  margin: 470px 690px;
+  transform: scale(1.5);
 }
 
 .graph {
