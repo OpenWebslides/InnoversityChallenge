@@ -94,8 +94,7 @@ a.license img {
   width: 4em;
   background: #FBBA00;
   border: 6px solid #FBBA00;
-  margin: 0 1.5em .3em 0;
-  transition: 2s all;
+  position: absolute;
 }
 
 .twitter-tweet {
