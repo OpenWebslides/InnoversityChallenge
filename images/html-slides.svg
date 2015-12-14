@@ -25,7 +25,7 @@
 	</g>
 </g>
 <rect x="412.65" y="174.82" width="150.71" height="82.33"/>
-<text transform="matrix(1 0 0 1 284.668 320.3359)" font-family="'ArialMT'" font-size="19.1466">www.ugent.be/slides/innoversity.html</text>
+<text transform="matrix(1 0 0 1 290 320)" font-family="'ArialMT'" font-size="19.1466">www.ugent.be/slides/innoversity/#5</text>
 <rect x="84.59" fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" width="96.61" height="128.44"/>
 <rect x="36.29" y="29.77" fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" width="96.61" height="128.44"/>
 <rect x="632" y="37.17" fill="#FFFFFF" stroke="#1D1D1B" stroke-miterlimit="10" width="227" height="87.26"/>
@@ -126,5 +126,5 @@
 <path fill="#BD1622" d="M511.58,220.57c0,6.25-4.58,11.31-10.22,11.31h-26.71c-5.64,0-10.22-5.06-10.22-11.31v-10.28
 	c0-6.25,4.58-11.31,10.22-11.31h26.71c5.64,0,10.22,5.06,10.22,11.31V220.57z"/>
 <polygon fill="#FFFFFF" points="483.35,208.76 493.64,214.71 483.35,220.65 "/>
-<text transform="matrix(1 0 0 1 375.0957 64.8228)" font-family="Arial" font-size="40" letter-spacing="1">HTML</text>
+<text transform="matrix(1 0 0 1 350 65)" font-family="Arial" font-size="40" letter-spacing="1">webslides</text>
 </svg>
