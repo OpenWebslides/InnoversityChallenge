@@ -109,15 +109,7 @@ a.license img {
   transform: scale(1.5);
 }
 
-.graph {
-  margin-top: -20px;
-  overflow: hidden;
-}
-
-.graph iframe {
-  margin-top: -100px;
-  width: 1250px;
-  height: 850px;
-  transform: scale(0.7);
-  transform-origin:0 0;
+#chart {
+  height: 420px;
+  width: 800px;
 }
