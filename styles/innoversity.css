@@ -90,24 +90,12 @@ a.license img {
 
 .avatar {
   border-radius: 50%;
-  height: 5em;
-  width: 5em;
+  height: 4em;
+  width: 4em;
   background: #FBBA00;
   border: 6px solid #FBBA00;
-  margin: 0 3em .3em 0;
+  margin: 0 1.5em .3em 0;
   transition: 2s all;
-}
-.full .avatar {
-  transform: rotate(-30deg);
-}
-.active .avatar {
-  transform: rotate(0deg);
-}
-.avatar:hover {
-  height: 6em;
-  width: 6em;
-  margin: -1em 2em -1em 0;
-  transition: .5s all;
 }
 
 .twitter-tweet {
